@@ -7,7 +7,7 @@
     ·
     <a href="https://nanami18.github.io/"><strong>Muru Zhang</strong></a>
     ·
-    <a href="https://ollieliu.com/"><strong>Ollie Liurobinr</strong></a>
+    <a href="https://ollieliu.com/"><strong>Ollie Liu</strong></a>
     ·
     <a href="https://robinjia.github.io/"><strong>Robin Jia</strong></a>
     .
